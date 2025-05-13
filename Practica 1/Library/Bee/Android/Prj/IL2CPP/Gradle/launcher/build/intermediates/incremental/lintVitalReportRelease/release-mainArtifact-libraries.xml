@@ -1,0 +1,120 @@
+<libraries>
+  <library
+      name="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary::release"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/classes.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/R.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/assistant_sdk_aidl.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/assistant_sdk_core.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/assistant_sdk_unity.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/assistant_sdk_voicecommand_unity.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/assistant_sdk_voicecommands.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/unity-classes.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/voicesdk_core.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/voicesdk_platform_dictation.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/voicesdk_platform_logger.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out/jars/libs/voicesdk_unity.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/faa195892ea779b5dffba455a99fbe8c/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_unity.jar:unspecified@jar"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_unity.jar"
+      resolved="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_unity.jar:unspecified"/>
+  <library
+      name="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_aidl.jar:unspecified@jar"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_aidl.jar"
+      resolved="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_aidl.jar:unspecified"/>
+  <library
+      name="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar"
+      resolved="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar:unspecified"/>
+  <library
+      name="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_core.jar:unspecified@jar"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_core.jar"
+      resolved="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_core.jar:unspecified"/>
+  <library
+      name="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_core.jar:unspecified@jar"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_core.jar"
+      resolved="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_core.jar:unspecified"/>
+  <library
+      name="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_platform_logger.jar:unspecified@jar"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_platform_logger.jar"
+      resolved="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_platform_logger.jar:unspecified"/>
+  <library
+      name="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_voicecommand_unity.jar:unspecified@jar"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_voicecommand_unity.jar"
+      resolved="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_voicecommand_unity.jar:unspecified"/>
+  <library
+      name="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_platform_dictation.jar:unspecified@jar"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_platform_dictation.jar"
+      resolved="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/voicesdk_platform_dictation.jar:unspecified"/>
+  <library
+      name="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_unity.jar:unspecified@jar"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_unity.jar"
+      resolved="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_unity.jar:unspecified"/>
+  <library
+      name="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_voicecommands.jar:unspecified@jar"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_voicecommands.jar"
+      resolved="__local_aars__:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/assistant_sdk_voicecommands.jar:unspecified"/>
+  <library
+      name=":InteractionSdk:@aar"
+      jars="/Users/paulinacastillapadilla/.gradle/caches/transforms-3/95d249d8e0417c00639e351a59696e01/transformed/jetified-InteractionSdk/jars/classes.jar"
+      resolved=":InteractionSdk:"
+      folder="/Users/paulinacastillapadilla/.gradle/caches/transforms-3/95d249d8e0417c00639e351a59696e01/transformed/jetified-InteractionSdk"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":unityopus:@aar"
+      jars="/Users/paulinacastillapadilla/.gradle/caches/transforms-3/e1546effb86acf6da9f3bc1ebdceefaf/transformed/jetified-unityopus/jars/classes.jar"
+      resolved=":unityopus:"
+      folder="/Users/paulinacastillapadilla/.gradle/caches/transforms-3/e1546effb86acf6da9f3bc1ebdceefaf/transformed/jetified-unityopus"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":SDKTelemetry:@aar"
+      jars="/Users/paulinacastillapadilla/.gradle/caches/transforms-3/0694b4705642ec6f189d4cfd5c7d1428/transformed/jetified-SDKTelemetry/jars/classes.jar"
+      resolved=":SDKTelemetry:"
+      folder="/Users/paulinacastillapadilla/.gradle/caches/transforms-3/0694b4705642ec6f189d4cfd5c7d1428/transformed/jetified-SDKTelemetry"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":OVRPlugin:@aar"
+      jars="/Users/paulinacastillapadilla/.gradle/caches/transforms-3/cffbe1dd7e1fc4480dc0e70fe62d0c2c/transformed/jetified-OVRPlugin/jars/classes.jar"
+      resolved=":OVRPlugin:"
+      folder="/Users/paulinacastillapadilla/.gradle/caches/transforms-3/cffbe1dd7e1fc4480dc0e70fe62d0c2c/transformed/jetified-OVRPlugin"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/59b4c233152d02f4c44cd5d69c492c73/transformed/out/jars/classes.jar:/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/59b4c233152d02f4c44cd5d69c492c73/transformed/out/jars/libs/R.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="/Users/paulinacastillapadilla/Desktop/DECIMO SEMESTRE/TEMAS SELECTOS 3/Practicas_VR/Clase_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/59b4c233152d02f4c44cd5d69c492c73/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
