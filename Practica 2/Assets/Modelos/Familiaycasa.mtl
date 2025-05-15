@@ -1,0 +1,368 @@
+newmtl CubeFBXASC046009SG
+illum 4
+Kd 0.33 0.07 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.08 0.02 0.00
+Ns 23.00
+newmtl CubeSG
+illum 4
+Kd 0.01 0.01 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 23.00
+newmtl CylinderSG
+illum 4
+Kd 0.23 0.02 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.01 0.01
+Ns 23.00
+newmtl PlaneFBXASC046001SG
+illum 4
+Kd 0.55 0.32 0.24
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.14 0.08 0.06
+Ns 12.06
+newmtl PlaneFBXASC046002SG
+illum 4
+Kd 0.12 0.02 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.01 0.00
+Ns 23.00
+newmtl PlaneFBXASC046002SG1
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 34.00
+newmtl PlaneFBXASC046003SG
+illum 4
+Kd 0.13 0.04 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.01 0.01
+Ns 23.00
+newmtl PlaneFBXASC046003SG1
+illum 4
+Kd 0.48 0.15 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.12 0.04 0.01
+Ns 23.00
+newmtl PlaneFBXASC046004SG
+illum 4
+Kd 0.38 0.38 0.38
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.09 0.09 0.09
+Ns 23.00
+newmtl PlaneFBXASC046005SG
+illum 4
+Kd 0.23 0.08 0.02
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.06 0.02 0.01
+Ns 23.00
+newmtl PlaneFBXASC046007SG
+illum 4
+Kd 1.00 0.27 0.20
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.07 0.05
+Ns 23.00
+newmtl PlaneFBXASC046019SG
+illum 4
+Kd 0.04 0.21 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.06 0.00
+Ns 16.78
+newmtl PlaneSG
+illum 4
+Kd 0.02 0.22 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.06 0.01
+Ns 12.69
+newmtl Simpsons:mat0
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Simpsons:mat2
+illum 4
+Kd 0.00 0.34 0.72
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 250.00
+newmtl Simpsons:mat4
+illum 4
+Kd 0.99 0.66 0.01
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.11 0.11 0.11
+Ns 250.00
+newmtl Simpsons:mat6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.47 0.47 0.47
+Ns 653.40
+newmtl Simpsons:mat8
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 501.74
+newmtl Simpsons:mat10
+illum 4
+Kd 0.88 0.08 0.02
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.46 0.46 0.46
+Ns 125.35
+newmtl Simpsons:mat12
+illum 4
+Kd 0.99 0.66 0.02
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Simpsons:mat14
+illum 4
+Kd 0.45 0.45 0.45
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Simpsons:mat16
+illum 4
+Kd 0.15 0.62 0.92
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.33 0.33 0.33
+Ns 36.82
+newmtl Simpsons:mat18
+illum 4
+Kd 0.88 0.11 0.03
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Simpsons:mat20
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 525.62
+newmtl Simpsons:mat22
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 708.40
+newmtl Simpsons:mat24
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Simpsons:mat26
+illum 4
+Kd 0.16 0.64 0.99
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.30 0.30 0.30
+Ns 23.73
+newmtl Simpsons:mat28
+illum 4
+Kd 0.99 0.69 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.19 0.19 0.19
+Ns 233.61
+newmtl Simpsons:mat30
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.54 0.54 0.54
+Ns 587.78
+newmtl Simpsons:mat32
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.15 0.15 0.15
+Ns 134.44
+newmtl Simpsons:mat34
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 722.50
+newmtl Simpsons:mat36
+illum 4
+Kd 0.64 0.45 0.17
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Simpsons:mat38
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 241.74
+newmtl Simpsons:mat40
+illum 4
+Kd 0.05 0.08 0.06
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.41 0.41 0.41
+Ns 134.44
+newmtl Simpsons:mat42
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 562.50
+newmtl Simpsons:mat44
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 626.74
+newmtl Simpsons:mat46
+illum 4
+Kd 1.00 0.67 0.02
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.15 0.15 0.15
+Ns 250.00
+newmtl Simpsons:mat48
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 600.62
+newmtl Simpsons:mat50
+illum 4
+Kd 0.87 0.11 0.03
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.12 0.12 0.12
+Ns 250.00
+newmtl Simpsons:mat52
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Simpsons:mat54
+illum 4
+Kd 1.00 0.67 0.02
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 250.00
+newmtl Simpsons:mat56
+illum 4
+Kd 0.67 0.79 0.35
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Simpsons:mat58
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 250.00
+newmtl Simpsons:mat60
+illum 4
+Kd 1.00 1.00 1.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 765.62
+newmtl Simpsons:mat62
+illum 4
+Kd 0.92 0.08 0.03
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
+newmtl Simpsons:mat64
+illum 4
+Kd 0.01 0.21 0.53
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 173.61
