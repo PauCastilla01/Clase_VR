@@ -782,7 +782,9 @@
           },
           {
             "name": "CharacterController",
-            "scenes": [],
+            "scenes": [
+              "Assets/Escenario.unity"
+            ],
             "dependencyType": 0,
             "icon": null
           },
